@@ -27,7 +27,7 @@
 ### 編譯與執行步驟
 1. 複製此儲存庫到本地端：
    ```bash
-   git clone [https://github.com/你的帳號/你的專案名稱.git](https://github.com/你的帳號/你的專案名稱.git)
+   git clone [https://github.com/Thomas-debuger/Personal-mortgage-calculator.git]
 
 
 2.  使用 Visual Studio 打開 `房貸計算器.sln` 方案檔。
