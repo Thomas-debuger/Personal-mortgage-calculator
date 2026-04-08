@@ -81,7 +81,11 @@
 
 <img width="850" height="608" alt="螢幕擷取畫面 2026-04-08 132209" src="https://github.com/user-attachments/assets/abd76f6f-5250-4685-9f62-b5a5413a929f" />
 
-### 5\. 錯誤防呆提示
+### 5\. 關於本系統
+
+<img width="1020" height="587" alt="螢幕擷取畫面 2026-04-08 133735" src="https://github.com/user-attachments/assets/3c28538a-6001-4981-888f-f1640d333a65" />
+
+### 6\. 錯誤防呆提示
 
 <img width="892" height="590" alt="螢幕擷取畫面 2026-04-08 132327" src="https://github.com/user-attachments/assets/16adc7b5-6b02-408d-bd8a-c30ef28cc005" />
 
