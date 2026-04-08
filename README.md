@@ -77,6 +77,8 @@
 
 <img width="820" height="587" alt="螢幕擷取畫面 2026-04-08 134134" src="https://github.com/user-attachments/assets/7a34e7b2-2c17-4822-8354-f914594a6fdb" />
 
+<img width="678" height="588" alt="螢幕擷取畫面 2026-04-08 132616" src="https://github.com/user-attachments/assets/cb938117-e436-41d2-8e76-3b6cc2277f1f" />
+
 ### 4\. 動態本息攤還明細表
 
 <img width="678" height="587" alt="螢幕擷取畫面 2026-04-08 133101" src="https://github.com/user-attachments/assets/74a5a3fb-25cd-444f-91d7-b61a7e357b25" />
