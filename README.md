@@ -73,6 +73,8 @@
 
 ### 4\. 動態本息攤還明細表
 
+<img width="678" height="587" alt="螢幕擷取畫面 2026-04-08 133101" src="https://github.com/user-attachments/assets/74a5a3fb-25cd-444f-91d7-b61a7e357b25" />
+
 <img width="850" height="608" alt="螢幕擷取畫面 2026-04-08 132209" src="https://github.com/user-attachments/assets/abd76f6f-5250-4685-9f62-b5a5413a929f" />
 
 ### 5\. 錯誤防呆提示
