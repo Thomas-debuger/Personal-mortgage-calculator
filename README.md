@@ -63,7 +63,7 @@
 
 <img width="680" height="587" alt="螢幕擷取畫面 2026-04-08 131920" src="https://github.com/user-attachments/assets/2815e29c-e395-4baf-a1c0-cffd4b5cafc3" />
 
-### 2\. 紀錄管理功能
+### 2\. 紀錄管理功能(Ctrl+M)
 
 <img width="677" height="591" alt="螢幕擷取畫面 2026-04-08 132445" src="https://github.com/user-attachments/assets/07c2188b-c1b5-402d-8f51-70ce60d11be8" />
 
@@ -71,7 +71,7 @@
 
 <img width="453" height="762" alt="螢幕擷取畫面 2026-04-08 133600" src="https://github.com/user-attachments/assets/740759c1-ad49-4aa8-aa35-8776c4b9e4cc" />
 
-### 3\. 個性化顏色
+### 3\. 個性化顏色(Ctrl+A)
 
 <img width="676" height="587" alt="螢幕擷取畫面 2026-04-08 132514" src="https://github.com/user-attachments/assets/14e15ab5-71ce-465f-8190-e5f8a2a3f77c" />
 
