@@ -67,6 +67,8 @@
 
 <img width="677" height="591" alt="螢幕擷取畫面 2026-04-08 132445" src="https://github.com/user-attachments/assets/07c2188b-c1b5-402d-8f51-70ce60d11be8" />
 
+<img width="728" height="415" alt="螢幕擷取畫面 2026-04-08 132616" src="https://github.com/user-attachments/assets/b9529c5d-f2c1-474b-a045-3955642274e9" />
+
 ### 3\. 個性化顏色
 
 <img width="676" height="587" alt="螢幕擷取畫面 2026-04-08 132514" src="https://github.com/user-attachments/assets/14e15ab5-71ce-465f-8190-e5f8a2a3f77c" />
