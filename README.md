@@ -61,19 +61,23 @@
 
 ### 1\. 淺色模式與浮水印提示
 
-*(請在此放一張：剛打開程式，什麼都沒輸入，展現出 TextBox 灰色浮水印，以及預設淺色介面的截圖)*
+<img width="680" height="587" alt="螢幕擷取畫面 2026-04-08 131920" src="https://github.com/user-attachments/assets/2815e29c-e395-4baf-a1c0-cffd4b5cafc3" />
 
-### 2\. 深色模式
+### 2\. 紀錄管理功能
 
-*(請在此放一張：輸入完數據，按下計算後顯示出完整結果，且已經切換為「深色模式」的截圖)*
+<img width="677" height="591" alt="螢幕擷取畫面 2026-04-08 132445" src="https://github.com/user-attachments/assets/07c2188b-c1b5-402d-8f51-70ce60d11be8" />
 
-### 3\. 動態本息攤還明細表
+### 3\. 個性化顏色
 
-*(請在此放一張：按下 Ctrl+T 彈出的 DataGridView 明細表視窗截圖，最好能拉到最後一期，展示精準歸零)*
+<img width="676" height="587" alt="螢幕擷取畫面 2026-04-08 132514" src="https://github.com/user-attachments/assets/14e15ab5-71ce-465f-8190-e5f8a2a3f77c" />
 
-### 4\. 錯誤防呆提示
+### 4\. 動態本息攤還明細表
 
-*(請在此放一張：刻意輸入錯誤（例如自備款 \> 總價），彈出 MessageBox 警告視窗的截圖)*
+<img width="850" height="608" alt="螢幕擷取畫面 2026-04-08 132209" src="https://github.com/user-attachments/assets/abd76f6f-5250-4685-9f62-b5a5413a929f" />
+
+### 5\. 錯誤防呆提示
+
+<img width="892" height="590" alt="螢幕擷取畫面 2026-04-08 132327" src="https://github.com/user-attachments/assets/16adc7b5-6b02-408d-bd8a-c30ef28cc005" />
 
 ## 開發者資訊
 
