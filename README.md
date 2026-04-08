@@ -21,7 +21,7 @@
 ## 系統需求與執行說明 (Getting Started)
 
 ### 環境需求
-* **開發環境**：Visual Studio 2019 或更新版本
+* **開發環境**：Visual Studio 2022 或更新版本
 * **執行環境**：.NET Framework 4.7.2 (或以上) / Windows 作業系統
 
 ### 編譯與執行步驟
