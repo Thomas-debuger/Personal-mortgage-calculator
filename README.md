@@ -93,6 +93,8 @@
 
 <img width="892" height="590" alt="螢幕擷取畫面 2026-04-08 132327" src="https://github.com/user-attachments/assets/16adc7b5-6b02-408d-bd8a-c30ef28cc005" />
 
+<img width="678" height="588" alt="螢幕擷取畫面 2026-04-08 132616" src="https://github.com/user-attachments/assets/09d8b5c0-696b-43b2-a816-560463a5787f" />
+
 ## 開發者資訊
 
   * **開發單位**：元智大學資訊工程學系
